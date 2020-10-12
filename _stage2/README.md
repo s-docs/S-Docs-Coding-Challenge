@@ -1,6 +1,6 @@
 ![S-Docs Logo](../images/sdocs_logo.png)
 
-## S-Docs Coding Challenge - Part 2
+## S-Docs Coding Challenge - Stage 2
 You have made the page and controller, and the clients love it! However, they have a few requests for some features to be added. In the email sent to you, you have been tasked with implementing a certain number of these tasks into your new page/controller. Besides given restrictions, you may complete these tasks in any way you see fit:
 
 1.) If the specified Account's field Ownership is set to "Public", they want to show the Employees field in the Account Info pageBlock. If it is not, then they don't want to show this field.
