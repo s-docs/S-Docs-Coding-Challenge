@@ -1,0 +1,24 @@
+<apex:page standardController="Account" extensions="AccountManagerController" >
+    <apex:form >
+        <apex:pageBlock id="accountInfoPB" title="Account Info">
+            <!-- GENERAL INFO ON ACCOUNT RECORD -->
+
+        </apex:pageBlock>
+
+        <apex:pageBlock id="relatedOppsPB" title="Related Opportunites">
+            <!-- LISTING OF RELATED OPP. RECORDS -->
+            <apex:pageBlockButtons location="bottom">
+
+            </apex:pageBlockButtons>
+
+        </apex:pageBlock>
+
+        <apex:pageBlock id="otherOppsPB" title="Other Opportunities">
+            <!-- LISTING OF ALL NON-RELATED OPP. RECORDS -->
+            <apex:pageBlockButtons location="bottom">
+
+            </apex:pageBlockButtons>
+            
+        </apex:pageBlock>
+    </apex:form>
+</apex:page>
